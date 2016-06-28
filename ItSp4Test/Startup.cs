@@ -9,6 +9,7 @@ namespace ItSp4Test
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
         }
     }
 }
